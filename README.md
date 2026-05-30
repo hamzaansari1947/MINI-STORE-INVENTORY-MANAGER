@@ -33,7 +33,7 @@
 * STL Vector
 * GitHub
 * Visual Studio Code
-
+---
 ## Project Structure
 
 * main.cpp
@@ -43,7 +43,7 @@
 * Inventory.cpp
 * products.txt
 * .gitignore
-
+---
 ## Sample Menu
 
 1. Add Product
