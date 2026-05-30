@@ -1,5 +1,5 @@
 # Mini Store Inventory Manager
-
+---
 ## Project Overview
 
  Mini Store Inventory Manager is a console-based C++ application that helps manage products in a small store. The system allows users to add, view, search, update,      delete, and restock products while monitoring low-stock items.
@@ -63,7 +63,7 @@
 * STL Vector
 * GitHub Collaboration
 * Modular Programming
-
+---
 ## Future Enhancements
 
 * File Handling
@@ -72,7 +72,9 @@
 * Sales Reports
 
 ## Conclusion
+
 This project demonstrates the implementation of inventory management using C++ and Object-Oriented Programming concepts.
+
 ---
 ## License
 Academic Project — Vardhaman College of Engineering (2025–26)
