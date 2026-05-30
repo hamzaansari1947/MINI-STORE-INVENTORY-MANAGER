@@ -70,7 +70,7 @@
 * Billing System
 * Login Authentication
 * Sales Reports
-
+---
 ## Conclusion
 
 This project demonstrates the implementation of inventory management using C++ and Object-Oriented Programming concepts.
