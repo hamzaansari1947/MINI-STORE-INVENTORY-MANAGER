@@ -44,16 +44,17 @@
 * products.txt
 * .gitignore
 ---
-## Sample Menu
+## How the Application Works
+1. The application starts and automatically loads saved product inventory data from a file.
+2. All product records are stored in memory using an Array, Linked List, or other suitable data structure.
+3. The user selects an operation from the menu-driven interface.
+4. Based on the user's choice, the system performs inventory operations.
+5. Any changes made to the inventory are immediately updated in memory.
+6. Low Stock Alert automatically identifies products whose quantity falls below a predefined threshold.
+7. Before exiting, the application automatically saves the updated inventory data to a file.
+8. During the next launch, all previously saved product records are loaded, ensuring no inventory information is lost.
 
-1. Add Product
-2. View Products
-3. Search Product
-4. Update Product
-5. Delete Product
-6. Restock Product
-7. Low Stock Alert
-8. Exit
+---
 
 ## Learning Outcomes
 
