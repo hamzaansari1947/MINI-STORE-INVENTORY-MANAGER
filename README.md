@@ -16,14 +16,14 @@ Mini Store Inventory Manager is a console-based C++ application that helps manag
    
 ## Features
 
-* Add Product
-* View Products
-* Search Product
-* Update Product
-* Delete Product
-* Restock Product
-* Low Stock Alert
-* Menu Driven Interface
+* Add Product - Insert new product details.
+* View Products - Display all available products.
+* Search Product - Find a product by ID or name.
+* Update Product - Modify product information.
+* Delete Product - Remove a product from inventory.
+* Restock Product - Increase product quantity.
+* Low Stock Alert - Notify when stock falls below a threshold.
+* Menu Driven Interface - User-friendly console menu for all operations.
 
 ## Technologies Used
 
