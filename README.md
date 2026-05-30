@@ -72,5 +72,7 @@
 * Sales Reports
 
 ## Conclusion
-
 This project demonstrates the implementation of inventory management using C++ and Object-Oriented Programming concepts.
+---
+## License
+Academic Project — Vardhaman College of Engineering (2025–26)
