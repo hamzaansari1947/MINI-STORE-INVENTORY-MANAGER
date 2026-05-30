@@ -6,9 +6,13 @@ Mini Store Inventory Manager is a console-based C++ application that helps manag
 
 # Team
 ## Team Lead
- MD Hamza
+ * MD Hamza
 ## Members
- 
+ * Rudra Prasad Behera
+ * Degama Pavani
+ * Koppula Ishanth Dhora
+## Mentor
+ * Ananthula Sushma Reddy
    
 ## Features
 
